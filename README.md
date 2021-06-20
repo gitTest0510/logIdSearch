@@ -61,7 +61,7 @@ Macの方はサクラエディタをVSCodeとターミナル、Excelをスプレ
 <details>
 <summary> 解き方はいろいろあると思いますが手順書いてるので良かったらクリックして、見てみてね！</summary>
 <br>
-1 必要なファイルをclone<br>
+1 まずはリポジトリをclone　実際問題を解くのに必要なファイル以下<br>
 ・「log.txt」<br>
 ・「命名規則.xlsx」<br>
 ・「ログ一覧」<br>
